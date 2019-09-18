@@ -1,0 +1,11 @@
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\bin\Debug\netcoreapp2.2\LighthouseAuditAggregator.deps.json
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\bin\Debug\netcoreapp2.2\LighthouseAuditAggregator.runtimeconfig.json
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\bin\Debug\netcoreapp2.2\LighthouseAuditAggregator.runtimeconfig.dev.json
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\bin\Debug\netcoreapp2.2\LighthouseAuditAggregator.dll
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\bin\Debug\netcoreapp2.2\LighthouseAuditAggregator.pdb
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.csprojAssemblyReference.cache
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.AssemblyInfoInputs.cache
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.AssemblyInfo.cs
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.dll
+C:\Users\venkatesh_gunda\source\repos\LighthouseAuditAggregator\obj\Debug\netcoreapp2.2\LighthouseAuditAggregator.pdb
